@@ -1,6 +1,6 @@
 hướng dẫn sài api
 
-/translate/api
+đường dấn http:<ip>:<port>/translate/api
 
 METHOD : POST
 
